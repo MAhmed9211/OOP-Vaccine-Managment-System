@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Latitude\source\repos\Project5\Project5\Source.cpp(883,25): warning C4101: 'Number_of_Admins': unreferenced local variable
+  Project5.vcxproj -> C:\Users\Latitude\source\repos\Project5\Debug\Project5.exe
