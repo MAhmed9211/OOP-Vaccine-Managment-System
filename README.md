@@ -4,9 +4,12 @@ This C++ program is a simple COVID Vaccine Management System designed to facilit
 
 # Features
 Vaccine Record Management: Add, update, and delete vaccine records.
-# Dose Tracking: Monitor the availability of vaccine doses.
-# Vaccination Information: Record and update information about individuals who receive the vaccine.
-# User-friendly Interface: Intuitive console-based interface for easy navigation.
+# Dose Tracking: 
+Monitor the availability of vaccine doses.
+# Vaccination Information: 
+Record and update information about individuals who receive the vaccine.
+# User-friendly Interface: 
+Intuitive console-based interface for easy navigation.
 # Getting Started
 Prerequisites
 C++ compiler (e.g., GCC)
